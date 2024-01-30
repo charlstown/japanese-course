@@ -21,9 +21,9 @@ theme:
     - navigation.sections
     - navigation.footer
     - navigation.top
-    - toc.integrate
     - search.suggest
-    - search.highlight 
+    - search.highlight
+    - navigation.indexes
   language: ja
 
   # Color palette
@@ -48,11 +48,9 @@ theme:
 # Sorting menu pages
 nav:
     - Home: 'index.md'
-    - Getting started: 'getting-started.md' # getting started
-    - About:
-      - License: 'about/license.md'
-      - External links: 'about/external-links.md'
-      - Changelog: 'about/changelog.md'
+    - Book:
+        - 'book/index.md' # getting started
+        - Alfabetos: 'book/alfabetos.md'
 
 
 # Extensions
