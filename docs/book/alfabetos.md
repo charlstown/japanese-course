@@ -2,6 +2,8 @@
 
 ## Hiragana (ひらがな)
 
+El hiragana es un sistema de escritura silábica japonesa compuesto por caracteres fonéticos que se utiliza principalmente para representar palabras gramaticales, partículas y pronunciación de palabras de origen japonés.
+
 ### Carta de simbolos
 
 Simbolos únicos
@@ -30,13 +32,71 @@ Simbolos modificados
 | B :material-alpha-h-box: | ば ba | び bi | ぶ bu | べ be | ぼ bo |
 | P :material-alpha-h-box: | ぱ　pa | ぴ pi | ぷ pu | ぺ pe | ぽ　po |
 
-# Ejercicios
 
-- ikura des ka: ¿Cuánto?
-- onegaishimas: por favor
-- Mizu: agua
-- Koko wa doko desu ka: dónde estoy
-- Toire wa doko des ka: dónde está el baño
-- Wakarimasen: no entiendo
+### Ejercicios
+
+:material-message-question: **い く ら で す か**
+
+??? note "solución"
+    ikura des ka (¿Cuánto?)
+
+---
+
+:material-message-question: **お　ね　が　い　し　ま　す**
+
+??? note "solución"
+    Onegaishimas (por favor)
+
+---
+
+:material-message-question: **み　ず**
+
+??? note "solución"
+    Mizu (agua)
+
+---
+
+:material-message-question: **こ　こ　わ　ど　こ　で　す　か**
+
+??? note "solución"
+    Koko wa doko des ka　(¿Donde estoy?)
+
+---
+
+:material-message-question: **と　い　れ　わ　ど　こ　で　す　か**
+
+??? note "solución"
+    Toire wa doko des ka (¿dónde está el baño?)
+
+---
+
+:material-message-question: **わ　か　り　ま　せ　ん**
+
+??? note "solución"
+    Wakarimasen (no entiendo)
+
+---
+
+:material-message-question: **あ　り　が　と　う　ご　ざ　い　ま　す**
+
+??? note "solución"
+    Arigatoo gozaimas (Gracias)
+
+---
+
+:material-message-question: **す　み　ま　せ　ん**
+
+??? note "solución"
+    Sumimasen (disculpe / lo siento)
+
+---
+
+:material-message-question: **お　会　計　お　願　い　し　ま　す**
+
+??? note "solución"
+    Okaikee onegaishimas (¿La cuenta por favor?)
+
 
 ## Katakana (かたかな)
+
+El katakana es otro sistema de escritura japonesa, conformado por caracteres fonéticos, que se utiliza principalmente para transcribir palabras de origen extranjero, nombres propios y términos técnicos en japonés.
