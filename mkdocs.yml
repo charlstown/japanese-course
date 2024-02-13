@@ -51,6 +51,7 @@ nav:
     - Book:
         - 'book/index.md' # getting started
         - Alfabetos: 'book/alfabetos.md'
+        - Gramática 1: 'book/gramatica-1.md'
 
 
 # Extensions
