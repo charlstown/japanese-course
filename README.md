@@ -38,11 +38,8 @@ Create sub-sections if needed to divide the Installation by a hierarchy.
 
 ## 3. Usage
 
-Explain all the steps to execute your app. Remember if it's for Linux/mac or windows or both, and help yourself with coding snippets to explain the commands.
-
 ```
-# Example of a code snippet
-python code/myapp.py -MyFlags
+python -m mkdocs serve -w overrides
 ```
 
 ## 4. Troubleshooting
