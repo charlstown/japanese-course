@@ -11,6 +11,14 @@
     display: flow-root;
     margin: 2em 0;
   }
+
+.box {
+  color: grey;
+  border: solid grey 1px;
+  display: inline-block;
+  padding: .3rem;
+  margin: 0px;
+}
   
 /* Classes to create grids and cards embeded in the markdown (extension md_in_html needed) */
 .cards {

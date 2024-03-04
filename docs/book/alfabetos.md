@@ -13,11 +13,11 @@ Simbolos únicos
 | A | あ a | い i | う u | え e | お o |
 | K  | か　ka | き　ki | く　ku | け　ke | こ　ko |
 | S  | さ　sa | し　si | す　su | せ　se | そ　so |
-| T  | た　ta | ち　ti | つ　tu | て　te | と　to |
+| T  | た　ta | ち　ti/chi | つ　tu | て　te | と　to |
 | N  | な na | に　ni | ぬ　nu |　ね ne |　の no |
 | H  | は ha |　ひ hi |　ふ hu |　へ he |　ほ ho |
 | M  | ま ma |　み mi | む　mu |　め me |　も mo |
-| Y  | や　ia |  | ゆ　iu |  | よ　io |
+| Y  | や　ya/ia |  | ゆ　yu/iu |  | よ　yo/io |
 | R  |　ら ra/la |　り ri/li | る　ru/lu | れ　re/le | ろ　ro/lo |
 | W  | わ ｗa |  |  |  | を o |
 | N  | ん n |
@@ -31,6 +31,33 @@ Simbolos modificados
 | D :material-alpha-t-box: | だ da | ぢ ji |　づ　tsu |　で de | ど　do |
 | B :material-alpha-h-box: | ば ba | び bi | ぶ bu | べ be | ぼ bo |
 | P :material-alpha-h-box: | ぱ　pa | ぴ pi | ぷ pu | ぺ pe | ぽ　po |
+
+
+Símbolos por parecido
+
+| a | me | nu |
+| - | - | - |
+| あ | め | ぬ |
+
+| ki | sa |
+| - | - |
+| き | さ |
+
+| ti/chi | ra/la |
+| - | - |
+| ち | ら |
+
+| e | so |
+| - | - |
+| え | そ |
+
+| ke | ha | ho | ma | ni
+| - | - | - | - | - |
+| け | は | ほ | ま | に |
+
+| n | ne | ri/li | re/le |
+| - | - | - | - |
+| ん | ね | り | れ |
 
 
 ### Ejercicios
