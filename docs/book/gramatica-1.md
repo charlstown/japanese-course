@@ -12,7 +12,7 @@ La partícula は (ha) se pronuncia *wa* y sirve para designar un tema en la ora
 
 | わたし | は | カルォス | です |
 | :-: | :-: | :-: | :-: |
-| 
+| watashi | ha | karulosu | desu |
 
 ## [か ka] Partícula interrogativa
 
@@ -49,4 +49,15 @@ La partícula interrogativa **か** se añade al final de la frase para recalcar
 | Shibuya | hablando de | donde | esta | ? |
 
 
-## [] 
+## [ です ] Ser o no ser
+
+En japonés existen verbos negativos, en este caso podemos ver el negativo del verbo ser.
+
+| Verbo | Positivo | Negativo |
+| - | - | - |
+| ser/estar | です desu | でわありません　de wa arimasen |
+| querer* |  | - |
+| tener | います | いません | 
+
+
+＊*Wa arimasen va solo con verbos y con ser o estar*

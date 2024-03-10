@@ -1,5 +1,12 @@
 # Alfabetos
 
+## Simbolos similares Hiragana Katakana
+
+| Alphabet | he | ya |
+| - | - | - |
+| Hiragana | へ | や | 
+| Katakana | ヘ | ヤ |
+
 ## Hiragana (ひらがな)
 
 El hiragana es un sistema de escritura silábica japonesa compuesto por caracteres fonéticos que se utiliza principalmente para representar palabras gramaticales, partículas y pronunciación de palabras de origen japonés.
@@ -19,7 +26,7 @@ Simbolos únicos
 | M  | ま ma |　み mi | む　mu |　め me |　も mo |
 | Y  | や　ya/ia |  | ゆ　yu/iu |  | よ　yo/io |
 | R  |　ら ra/la |　り ri/li | る　ru/lu | れ　re/le | ろ　ro/lo |
-| W  | わ ｗa |  |  |  | を o |
+| W  | わ ha/ｗa |  |  |  | を o |
 | N  | ん n |
 
 Simbolos modificados
@@ -135,6 +142,9 @@ Símbolos por parecido
 
 El katakana es otro sistema de escritura japonesa, conformado por caracteres fonéticos, que se utiliza principalmente para transcribir palabras de origen extranjero, nombres propios y términos técnicos en japonés.
 
+
+### Carta de simbolos
+
 | Letra | :material-draw-pen: :material-account-voice: | :material-draw-pen: :material-account-voice: | :material-draw-pen: :material-account-voice: | :material-draw-pen: :material-account-voice: | :material-draw-pen: :material-account-voice: |
 | - | - | - | - | - | - |
 | A | ア a | イ i | ウ u | エ e | オ o |
@@ -159,3 +169,32 @@ Simbolos modificados
 | D :material-alpha-t-box: | ダ da | ヂ ji |　ヅ　tsu |　デ de | ド　do |
 | B :material-alpha-h-box: | バ ba | ビ bi | ブ bu | ベ be | ボ bo |
 | P :material-alpha-h-box: | パ　pa | ピ pi | プ pu | ペ pe | ポ　po |
+
+
+Símbolos por parecido
+
+| shi | ni | tsu | so |
+| - | - | - | - |
+| シ | ン | ツ |　ソ |
+
+| ku | ke | 
+| - | - |
+| ク | ケ |
+
+| ma | su | mu
+| - | - | - |
+| マ  | ス | ヌ
+
+| wa | u | wo | fu |
+| - | - | - | - |
+| ワ | ウ | ヲ | フ |
+
+### Ejercicios
+
+:material-message-question: **セブン-イレブン**
+
+??? note "solución"
+    Seven Eleven
+
+---
+
