@@ -24,7 +24,7 @@ theme:
     - search.suggest
     - search.highlight
     - navigation.indexes
-  language: ja
+  language: es
 
   # Color palette
   palette: 
@@ -48,10 +48,18 @@ theme:
 # Sorting menu pages
 nav:
     - Home: 'index.md'
-    - Book:
-        - 'book/index.md' # getting started
-        - Alfabetos: 'book/alfabetos.md'
-        - Gramática 1: 'book/gramatica-1.md'
+    - Alfabetos:
+        - 'alfabetos/index.md' # getting started
+        - Hiragana: 'alfabetos/hiragana.md'
+        - Katakana: 'alfabetos/katakana.md'
+        - Kanji: 'alfabetos/kanji.md'
+    - Gramática:
+        - 'gramatica/index.md'
+        - Partículas: 'gramatica/particulas.md'
+        - Pronombres: 'gramatica/pronombres.md'
+        - Números: 'gramatica/numeros.md'
+        - Sustantivos: 'gramatica/sustantivos.md'
+        - Verbos: 'gramatica/verbos.md'
 
 
 # Extensions
