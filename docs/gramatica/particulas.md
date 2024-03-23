@@ -50,7 +50,7 @@ La partícula interrogativa **か** se añade al final de la frase para recalcar
 | Shibuya | hablando de | donde | esta | ? |
 
 
-## [の] Posesivo
+## [の] Partículad del posesivo
 
 La partícula の(no) se la llama partícula posesiva, cuya traducción al castellano es «De» cuando complementa al nombre y también tiene la función de unirse a los pronombres personales para formar los pronombres posesivos, los más usados son:
 
@@ -62,4 +62,28 @@ La partícula の(no) se la llama partícula posesiva, cuya traducción al caste
 | __nuestro__ | watashitachi no | わたしたち の |
 | __vuestro__ | anatatachi no | あなたたち の |
 
+Dos formas de estructurar esta partícula dependiendo del [pronombre demostrativo](./pronombres.md) que usemos.
 
+
+
+| これ | は | せえこ さん | の | ほん | です | か |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Kore | wa | Seeko-san | no | hon | des | ka |
+| Esto | hablando de | Seeko-san | de | libro | es | ? |
+
+| この | ほん | わ | せえこ さん | の | です | か |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Kono | hon | wa | Seeko-san | no | des | ka |
+| Este | libro | hablando de | Seeko-san | suyo | es | ? |
+
+
+## [と] Partícula conjuntiva Y
+
+La partícula と(to) en japonés desempeña varias funciones gramaticales dependiendo del contexto en el que se utiliza. A continuación veremos una explicación de sus principales usos:
+
+| Ejemplo | Romanji | Traducción |
+| - | - | - |
+| あなた と わたし | Anata to watashi | Tú y yo |
+| コンピューター | kono konpyuta to sono pen | Este ordenador y ese boli |
+| 今日と明日~(きょとあした)~ | Kyo to ashita | Hoy y mañana |
+| たべもの と のみもの | Tabemono to nomimono | alimentos y bebidas |
