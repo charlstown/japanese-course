@@ -61,6 +61,11 @@ nav:
         - Sustantivos: 'gramatica/sustantivos.md'
         - Verbos: 'gramatica/verbos.md'
         - Adjetivos: 'gramatica/adjetivos.md'
+        - Expresiones: 'gramatica/expresiones.md'
+    - Ejercicios:
+        - 'ejercicios/index.md'
+        - Vocabulario: 'ejercicios/vocabulario.md'
+        - Frases: 'ejercicios/frases.md'
 
 
 # Extensions

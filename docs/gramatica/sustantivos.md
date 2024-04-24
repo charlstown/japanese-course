@@ -59,7 +59,7 @@ TENGO :material-arrow-right: GA IMASU [ がいます ]
 | **PORTÁTIL** | `rappu toppu` | 牛~(うし)~ |
 | **COCHE** | `kuruma` | 羊~(ひつじ)~ |
 | **LIBRO** | `hon` | 豚~(ぶた)~ |
-| **MÓVIL** | `keitai` | 魚~(さかな)~ |
+| **MÓVIL** | `sumaho` | 魚~(スマホ)~ |
 | **CARGADOR** | `judenki` | 魚~(さかな)~ |
 | **NEVERA** | `Reizōko` | 鳥~(とり)~ |
 | **BOLÍGRAFO** | `pen` | 鶏~(にわとり)~ |
@@ -79,6 +79,19 @@ TENGO :material-arrow-right: GA IMASU [ がいます ]
 | **TARJETA DE CRÉDITO** | `Kurejittokādo` | 鶏~(にわとり)~ |
 | **BILLETE DE AVIÓN** | `Kōkūken` | 鶏~(にわとり)~ |
 | **BILLETE DE TREN** | `???` | 鶏~(にわとり)~ |
+
+## Transportes
+
+| Palabra | Romanji | Escritura |
+| -- | -- | -- |
+| **TREN** | `-` | 鶏~(にわとり)~ |
+| **COCHE** | `-` | 鶏~(にわとり)~ |
+| **BICICLETA** | `-` | 鶏~(にわとり)~ |
+| **MOTO** | `-` | 鶏~(にわとり)~ |
+| **METRO** | `-` | 鶏~(にわとり)~ |
+| **AVIÓN** | `-` | 鶏~(にわとり)~ |
+| **TAXI** | `-` | 鶏~(にわとり)~ |
+| **CAMIÓN** | `-` | 鶏~(にわとり)~ |
 
 
 ## Comida y bebida
@@ -100,3 +113,11 @@ TENGO :material-arrow-right: GA IMASU [ がいます ]
 | **WASABI** | `wasabi` | 鶏~(にわとり)~ |
 | **TARTA** | `niwatori` | 鶏~(にわとり)~ |
 | **CURRY** | `keeki` | 鶏~(にわとり)~ |
+
+## Comidas del día
+
+| Palabra | Romanji | Escritura |
+| -- | -- | -- |
+| **Desayuno** | `Asagohan` | 猫~(あさごはん)~ |
+| **Comida** | `hirugohan` | 猫~(おひるごはん)~ |
+| **Cena** | `yorugohan` | 猫~(よるごはん)~ |

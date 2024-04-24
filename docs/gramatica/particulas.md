@@ -65,11 +65,14 @@ La partícula の(no) se la llama partícula posesiva, cuya traducción al caste
 Dos formas de estructurar esta partícula dependiendo del [pronombre demostrativo](./pronombres.md) que usemos.
 
 
+:material-arrow-right: Este es el libro de Seeko?
 
 | これ | は | せえこ さん | の | ほん | です | か |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Kore | wa | Seeko-san | no | hon | des | ka |
 | Esto | hablando de | Seeko-san | de | libro | es | ? |
+
+:material-arrow-right: Este libro es de Seeko?
 
 | この | ほん | わ | せえこ さん | の | です | か |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
