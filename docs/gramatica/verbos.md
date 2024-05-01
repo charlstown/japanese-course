@@ -18,6 +18,10 @@ En japonés existen verbos negativos, en este caso podemos ver el negativo del v
 | gustar | sukima __ desu | - | Tiene partícula が -> sust + ga + adj + desu |
 | estudiar | benkyoo shi-mash | - | - |
 | hablar | hanashi-mash | - | - |
+| comprar | kai-masu | - | - |
+| leer | yomimasu | - | - |
+| escribir | kakimasu | - | - |
+| escribir | hanashimasu | - | - |
 
 
 ＊*Wa arimasen va solo con verbos y con ser o estar*

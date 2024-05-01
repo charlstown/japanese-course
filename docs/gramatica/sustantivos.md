@@ -142,6 +142,6 @@ TENGO :material-arrow-right: GA IMASU [ がいます ]
 
 | Palabra | Romanji | Escritura |
 | -- | -- | -- |
-| **Desayuno** | `Asagohan` | 猫~(あさごはん)~ |
-| **Comida** | `hirugohan` | 猫~(おひるごはん)~ |
-| **Cena** | `yorugohan` | 猫~(よるごはん)~ |
+| **DESAYUNO** | `Asagohan` | 猫~(あさごはん)~ |
+| **COMIDA** | `hirugohan` | 猫~(おひるごはん)~ |
+| **CENA** | `bangohan` / `yorugohan` | 朝ご飯~(ばんごはん)~ / 猫~(よるごはん)~ |
