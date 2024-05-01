@@ -20,6 +20,30 @@ TENGO :material-arrow-right: GA IMASU [ がいます ]
 | **HERMANO MENOR** | `otouto` | 弟~(おとうと)~ |
 | **HERMANA MENOR** | `imouto` | 妹~(いもうと)~ |
 
+## Días de la semana
+
+| Palabra | Romanji | Escritura |
+| -- | -- | -- |
+| **LUNES** | `-` | --- |
+| **MARTES** | `-` | --- |
+| **MIÉRCOLES** | `-` | --- |
+| **JUEVES** | `-` | --- |
+| **VIERNES** | `kinyoubi` | --- |
+| **SÁBADO** | `-` | --- |
+| **DOMINGO** | `-` | --- |
+| **FIN DE SEMANA** | `shumatsu` | --- |
+
+
+## Entretenimiento
+
+| Palabra | Romanji | Escritura |
+| -- | -- | -- |
+| **PELÍCULAS** | `eiga` | --- |
+| **MÚSICA** | `Ongaku` | --- |
+| **CINE** | `eigakan` | --- |
+| **BOLERA** | `boringu` | --- |
+| **BILLAR** | `biriyado` | --- |
+
 
 ## Profesiones
 

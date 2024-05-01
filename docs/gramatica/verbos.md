@@ -23,10 +23,6 @@ En japonés existen verbos negativos, en este caso podemos ver el negativo del v
 ＊*Wa arimasen va solo con verbos y con ser o estar*
 
 
-## Tener
 
-
-
-## Gustar
 
 
