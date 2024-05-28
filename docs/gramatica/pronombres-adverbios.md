@@ -55,3 +55,5 @@
 |-|-|-|-|-|-|-|
 | Kono | keitai | wa | anata | no | desu | ka |
 | Este | móvil | hablando de | tu | de | es | ? |
+
+# Adverbios
