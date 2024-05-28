@@ -5,7 +5,7 @@ En japonés, los verbos se conjugan para indicar el tiempo (pasado, presente/fut
 El tiempo presente se utiliza tanto para expresar acciones actuales como para indicar acciones futuras.
 
 
-## Verbos básicos y polaridad
+## Verbos básicos
 
 | Verbo | Positivo | Negativo | Comentario |
 | - | - | - | - |
@@ -25,10 +25,6 @@ El tiempo presente se utiliza tanto para expresar acciones actuales como para in
 | leer | よみます yomimasu | よみません yomimasen | |
 | escribir | かきます kakimasu | かきません kakimasen | |
 | comprar | かいます kaimasu | かいません kaimasen | |
-| amar | あいしています aishiteimasu | あいしていません aishiteimasen | Tiene partícula が -> sust + ga + adj + desu |
-| querer | ほしいです hoshii desu | ほしくありません hoshiku arimasen | Tiene partícula が -> sust + ga + adj + desu |
-| gustar | すきです suki desu | すきではありません suki dewa arimasen | Tiene partícula が -> sust + ga + adj + desu |
-
 
 ### Polaridad en los verbos
 
@@ -37,12 +33,21 @@ En japonés, los verbos se conjugan de manera regular para formar el negativo y 
 - Forma positiva presente/futuro: Se agrega -ます (masu) al radical del verbo.
 - Forma negativa presente/futuro: Se agrega -ません (masen) al radical del verbo.
 
-!!! note "Ejemplo verbo comer (たべる taberu)"
+#### Ejemplo verbo comer (たべる taberu)
 
-    | Polaridad | Verbo | Romanji |
-    |-|-|-|
-    | Positivo | たべます | tabemasu |
-    | Negativo | たべません | tabemasen |
+| Polaridad | Verbo | Romanji |
+|-|-|-|
+| Positivo | たべます | tabemasu |
+| Negativo | たべません | tabemasen |
+
+
+## Verbos adjetivados (partícula が)
+
+| Verbo | Positivo | Negativo | Comentario |
+| - | - | - | - |
+| amar | あいしています aishiteimasu | あいしていません aishiteimasen | Tiene partícula が -> sust + ga + adj + desu |
+| querer | ほしいです hoshii desu | ほしくありません hoshiku arimasen | Tiene partícula が -> sust + ga + adj + desu |
+| gustar | すきです suki desu | すきではありません suki dewa arimasen | Tiene partícula が -> sust + ga + adj + desu |
 
 
 ### Uso de la partícula が (ga)
@@ -51,15 +56,13 @@ La partícula が (ga) en japonés se utiliza para marcar el sujeto de una oraci
 
 Aquí hay algunas situaciones comunes en las que se usa が con verbos:
 
-Expresan gustos o preferencias: 好きです (suki desu), 嫌いです (kirai desu).
-Indican deseos: 欲しいです (hoshii desu).
-Expresan comprensión o capacidad: 分かります (wakarimasu), できます (dekimasu).
-Indican necesidad: いります (irimasu).
-Indican existencia: あります (arimasu), います (imasu).
-
-
-
-## Tabla de verbos importantes
+| Expresión | Verbo | Romanji | Ejemplo con が |
+| - | - | - | - |
+| Gustos o preferencias | 好きです | Suki desu | 私は音楽が好きです (Watashi wa ongaku ga suki desu) - Me gusta la música |
+| Deseos | 欲しいです | Hoshii desu | 彼は新しい車が欲しいです (Kare wa atarashii kuruma ga hoshii desu) - Él quiere un coche nuevo |
+| Comprensión o capacidad | 分かります | Wakarimasu | 私は日本語が分かります (Watashi wa Nihongo ga wakarimasu) - Entiendo japonés |
+| Necesidad | いります | Irimasu | 彼女はお金がいります (Kanojo wa okane ga irimasu) - Ella necesita dinero |
+| Existencia | あります | Arimasu | ここにたくさんの本があります (Koko ni takusan no hon ga arimasu) - Aquí hay muchos libros |
 
 
 
