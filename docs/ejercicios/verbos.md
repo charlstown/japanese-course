@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/assets/stylesheets/translator.css">
+<link rel="stylesheet" href="{{ base_url }}/{{ '/assets/stylesheets/translator.css' | url }}">
 
 # Ejercicios con Verbos
 
@@ -40,4 +40,4 @@
     <div id="options"></div>
 </div>
 
-<script src="/assets/javascripts/translator.js"></script>
+<script src="{{ base_url }}/{{ '/assets/javascripts/translator.js' | url }}"></script>
