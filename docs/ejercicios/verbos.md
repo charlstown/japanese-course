@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="../../assets/stylesheets/translator.css">
+
+
 # Ejercicios con Verbos
 
 ## Trucos para aprender
@@ -38,11 +41,4 @@
     <div id="options"></div>
 </div>
 
-
-
-<!-- Custom styles for the home site -->
-{% block styles %}
-    {{ super() }}
-    <link rel="stylesheet" href="{{ base_url }}/{{ '/assets/stylesheets/translator.css' | url }}">
-    <script src="{{ base_url }}/{{ '/assets/javascripts/translator.js' | url }}"></script>
-{% endblock %}
+<script src="../../assets/javascripts/translator.js"></script>
