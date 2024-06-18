@@ -10,6 +10,7 @@ El tiempo presente se utiliza tanto para expresar acciones actuales como para in
 | Verbo | Positivo | Negativo | Comentario |
 | - | - | - | - |
 | ser/estar | です desu | ではありません de wa arimasen | |
+| querer | いります irimas | - | |
 | haber (inanimado) | あります arimasu | ありません arimasen | Se usa para cosas inanimadas |
 | haber (animado) | います imasu | いません imasen | Se usa para seres animados |
 | tener | もっています motteimasu | もっていません motteimasen | |

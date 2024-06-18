@@ -1,9 +1,0 @@
-# Números
-
-## Números
-
-
-## Dinero
-
-
-## Horas

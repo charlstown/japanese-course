@@ -56,8 +56,8 @@ nav:
     - Gramática:
         - 'gramatica/index.md'
         - Partículas: 'gramatica/particulas.md'
-        - Pronombres: 'gramatica/pronombres.md'
-        - Números: 'gramatica/numeros.md'
+        - Pronombres: 'gramatica/pronombres-adverbios.md'
+        - Números: 'gramatica/contadores.md'
         - Sustantivos: 'gramatica/sustantivos.md'
         - Verbos: 'gramatica/verbos.md'
         - Adjetivos: 'gramatica/adjetivos.md'

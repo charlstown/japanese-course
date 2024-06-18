@@ -41,4 +41,8 @@
     <div id="options"></div>
 </div>
 
+<script>
+    const dataSource = "verbs.yaml";
+</script>
 <script src="../../assets/javascripts/translator.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>

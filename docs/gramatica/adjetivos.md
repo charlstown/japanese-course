@@ -42,10 +42,15 @@ Son adjetivos sin una sola terminación que implican la partícula `na` en algun
 |-|-|
 | Sono hon wa taisetsu desu | sono hon wa taisetsu de wa arimasen |
 | Are tokee wa benri desu | sono tokee wa benri de wa arimasen |
+| Are tokee wa benri na sumaho desu | sono tokee wa benri de wa arimasen |
 
 **Modo atributivo:** Estos adjetivos no varían cuando se escriben seguidamente antes de un sustantivo.
 
  Adjetivo + Sustantivo :material-arrow-right: Taka-i kuruma
+
+ ??? fasdfasd
+
+    Los 
 
 
 ## Básicos
@@ -58,3 +63,7 @@ Son adjetivos sin una sola terminación que implican la partícula `na` en algun
 | **GRANDE** | `ookii`| おおきい |
 | **SABROSO** | `oishi`| おいし |
 | **PICANTE** | `tsurai`| つらい |
+| **CALOR** | `atsui`| あつい |
+| **ANTIGUO** | `atsui`| あつい |
+| **BIEN (de salud)** | `genki`| げんき |
+| **Útil** | `benri`| げんき |

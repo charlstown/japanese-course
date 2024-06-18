@@ -1,27 +1,30 @@
-let dictionary = {
-  "ser/estar": "desu",
-  "haber (inanimado)": "arimasu",
-  "haber (animado)": "imasu",
-  "tener": "motteimasu",
-  "hacer": "shimasu",
-  "ir": "ikimasu",
-  "volver": "kaerimasu",
-  "comer": "tabemasu",
-  "beber": "nomimasu",
-  "escuchar": "kikimasu",
-  "ver": "mimasu",
-  "hablar": "hanashimasu",
-  "estudiar": "benkyou shimasu",
-  "leer": "yomimasu",
-  "escribir": "kakimasu",
-  "comprar": "kaimasu"
-};
+
 
 const questionDiv = document.getElementById('question');
 const optionsDiv = document.getElementById('options');
+let dictionary = readYamlFile(dataSource)
+console.log(dictionary)
 
 let currentWord;
 let correctAnswer;
+
+async function readYamlFile(source) {
+  path = "../../assets/data/" + source;
+  console.log(path);
+  try {
+    const response = await fetch(path);
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    const yamlText = await response.text();
+    const data = jsyaml.load(yamlText);
+
+    // Ensure it returns only the dictionary part
+    return data;
+  } catch (error) {
+    console.error('Error fetching or parsing YAML file:', error);
+  }
+}
 
 function swapKeysAndValues() {
   const swapped = {};

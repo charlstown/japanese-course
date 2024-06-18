@@ -22,16 +22,32 @@ TENGO :material-arrow-right: GA IMASU [ がいます ]
 
 ## Días de la semana
 
-| Palabra | Romanji | Escritura |
-| -- | -- | -- |
-| **LUNES** | `-` | --- |
-| **MARTES** | `-` | --- |
-| **MIÉRCOLES** | `-` | --- |
-| **JUEVES** | `-` | --- |
-| **VIERNES** | `kinyoubi` | --- |
-| **SÁBADO** | `-` | --- |
-| **DOMINGO** | `-` | --- |
-| **FIN DE SEMANA** | `shumatsu` | --- |
+| Día de la semana | Romanji | Kanji (Hiragana) |
+| ---------------- | ------- | ---------------- |
+| **Lunes** | `getsuyōbi` | 月曜日~(げつようび)~ |
+| **Martes** | `kayōbi` | 火曜日~(かようび)~ |
+| **Miércoles** | `suiyōbi` | 水曜日~(すいようび)~ |
+| **Jueves** | `mokuyōbi` | 木曜日~(もくようび)~ |
+| **Viernes** | `kin'yōbi` | 金曜日~(きんようび)~ |
+| **Sábado** | `doyōbi` | 土曜日~(どようび)~ |
+| **Domingo** | `nichiyōbi` | 日曜日~(にちようび)~ |
+
+## Meses del año
+
+| Mes | Romanji | Kanji (Hiragana) |
+| --- | ------- | ---------------- |
+| **Enero** | `ichigatsu` | 一月~(いちがつ)~ |
+| **Febrero** | `nigatsu` | 二月~(にがつ)~ |
+| **Marzo** | `sangatsu` | 三月~(さんがつ)~ |
+| **Abril** | `shigatsu` | 四月~(しがつ)~ |
+| **Mayo** | `gogatsu` | 五月~(ごがつ)~ |
+| **Junio** | `rokugatsu` | 六月~(ろくがつ)~ |
+| **Julio** | `shichigatsu` | 七月~(しちがつ)~ |
+| **Agosto** | `hachigatsu` | 八月~(はちがつ)~ |
+| **Septiembre** | `kugatsu` | 九月~(くがつ)~ |
+| **Octubre** | `jūgatsu` | 十月~(じゅうがつ)~ |
+| **Noviembre** | `jūichigatsu` | 十一月~(じゅういちがつ)~ |
+| **Diciembre** | `jūnigatsu` | 十二月~(じゅうにがつ)~ |
 
 
 ## Entretenimiento
@@ -88,6 +104,8 @@ TENGO :material-arrow-right: GA IMASU [ がいます ]
 | **NEVERA** | `Reizōko` | 鳥~(とり)~ |
 | **BOLÍGRAFO** | `pen` | 鶏~(にわとり)~ |
 
+| **RELOJ** | `pen` | 鶏~(にわとり)~ |
+
 
 
 ## Elementos de viaje
@@ -128,6 +146,8 @@ TENGO :material-arrow-right: GA IMASU [ がいます ]
 | **CARNE** | `niku` | パンダ |
 | **PESCADO** | `sakana` | パンダ |
 | **TÉ VERDE** | `ocha` | 鶏~(にわとり)~ |
+| **TÉ VERDE** | `kocha` | 鶏~(こういちや)~ |
+| **TÉ VERDE** | `ocha` | 鶏~(にわとり)~ |
 | **RAMEN** | `raamen` | 鶏~(にわとり)~ |
 | **ARROZ** | `go han` | 鶏~(にわとり)~ |
 | **AGUA** | `mizu` | 鶏~(にわとり)~ |
@@ -145,3 +165,9 @@ TENGO :material-arrow-right: GA IMASU [ がいます ]
 | **DESAYUNO** | `Asagohan` | 猫~(あさごはん)~ |
 | **COMIDA** | `hirugohan` | 猫~(おひるごはん)~ |
 | **CENA** | `bangohan` / `yorugohan` | 朝ご飯~(ばんごはん)~ / 猫~(よるごはん)~ |
+
+
+## Edificios
+
+Colegio
+Hospital
