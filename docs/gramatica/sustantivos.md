@@ -103,7 +103,6 @@ TENGO :material-arrow-right: GA IMASU [ がいます ]
 | **CARGADOR** | `judenki` | 魚~(さかな)~ |
 | **NEVERA** | `Reizōko` | 鳥~(とり)~ |
 | **BOLÍGRAFO** | `pen` | 鶏~(にわとり)~ |
-
 | **RELOJ** | `pen` | 鶏~(にわとり)~ |
 
 
@@ -167,7 +166,23 @@ TENGO :material-arrow-right: GA IMASU [ がいます ]
 | **CENA** | `bangohan` / `yorugohan` | 朝ご飯~(ばんごはん)~ / 猫~(よるごはん)~ |
 
 
-## Edificios
+## Edificios comunes
 
-Colegio
-Hospital
+| Palabra | Romanji | Escritura |
+| - | - | - |
+| **Colegio** | `Gakkou` | 学校~(がっこう)~ |
+| **Universidad** | `Daigaku` | 大学~(だいがく)~ |
+| **Hospital** | `Byouin` | 病院~(びょういん)~ |
+| **Parque** | `Kouen` | 公園~(こうえん)~ |
+| **Aeropuerto** | `Kuukou` | 空港~(くうこう)~ |
+| **Estación de tren** | `Eki` | 駅~(えき)~ |
+| **Biblioteca** | `Toshokan` | 図書館~(としょかん)~ |
+| **Centro comercial** | `Shoutengai` | 商店街~(しょうてんがい)~ |
+| **Teatro** | `Gekijou` | 劇場~(げきじょう)~ |
+| **Restaurante** | `Resutoran` | レストラン |
+| **Museo** | `Hakubutsukan` | 博物館~(はくぶつかん)~ |
+| **Cine** | `Eigakan` | 映画館~(えいがかん)~ |
+| **Tienda** | `Depatoo` | デパート |
+| **Supermercado** | `Suupaa` | スーパー |
+| **Oficina** | `Jimusho` | 事務所~(じむしょ)~ |
+| **Hotel** | `Hoteru` | ホテル |
